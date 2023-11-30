@@ -1,0 +1,32 @@
+{
+  "hash": "0795894e",
+  "browserHash": "98b8464a",
+  "optimized": {
+    "@angular/common": {
+      "src": "../../../../../node_modules/@angular/common/fesm2022/common.mjs",
+      "file": "@angular_common.js",
+      "fileHash": "56c0eb27",
+      "needsInterop": false
+    },
+    "@angular/core": {
+      "src": "../../../../../node_modules/@angular/core/fesm2022/core.mjs",
+      "file": "@angular_core.js",
+      "fileHash": "e96d268b",
+      "needsInterop": false
+    },
+    "@angular/platform-browser": {
+      "src": "../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
+      "file": "@angular_platform-browser.js",
+      "fileHash": "d8f634b3",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-5OYRIKV6": {
+      "file": "chunk-5OYRIKV6.js"
+    },
+    "chunk-QTAPZYEL": {
+      "file": "chunk-QTAPZYEL.js"
+    }
+  }
+}
